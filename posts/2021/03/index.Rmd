@@ -1,0 +1,19 @@
+---
+title: "Central coast BC weather station service"
+categories: ["weather station", "service", "CHRL"]
+date: '2021-03-25'
+updated: '2023-04-17'
+description: "Visit to the coastal hydrology research lab and bc ministry of environment central coast hydrometric stations to conduct snow courses and service the instruments."
+author:
+  - name: Alex Cebulski
+    url: {}
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Here's Ali, Griffin and I completing a snow course at the Klinaklina weather station on the central coast. Check out the real-time weather station data for this site [Here](http://graph.viu-hydromet-wx.ca/?_inputs_&preset_site=%22klinaklini%22&custom_site=%22apelake%22&smenu=%22wkly_graph%22). 
+
+![](IMG_1694.jpg)
+
+
