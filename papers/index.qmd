@@ -3,8 +3,8 @@ title: Papers
 comments: false
 ---
 
-Click [PDF] to download each paper.
+Click [LINK] to download each paper.
 
-**Cebulski, A. C.** and Desloges, J. R. (2022 in-review). The Influence of Fluvial and Glacial Watershed Dynamics on Holocene Sediment Accumulation in Cariboo Lake, Columbia Mountains, British Columbia, Canada. 2022. *Holocene*. [PDF](cebulski_desloges_2022.pdf)
+**Cebulski, A** and Desloges, J. R. (2024). The Influence of Fluvial and Glacial Watershed Dynamics on Holocene Sediment Accumulation in Cariboo Lake, Columbia Mountains, British Columbia, Canada. *Canadian Journal of Earth Sciences*. [LINK](https://cdnsciencepub.com/doi/abs/10.1139/cjes-2023-0094)
 
-McNicol, G, Hood, E, Butman, DE, Tank, SE, Giesbrecht, IJW, Floyd, W, D'Amore, D, Fellman, JB, **Cebulski, AC**, Lally, A, McSorley, H, Arriola, SG. (2022 in-review). Small, coastal temperate rainforest watersheds dominate organic carbon transport to the northeast Pacific Ocean. *Geophysical Research Letters*. [PDF](mcnicol_et_al_2022.pdf)
+McNicol, G, Hood, E, Butman, DE, Tank, SE, Giesbrecht, IJW, Floyd, W, D'Amore, D, Fellman, JB, **Cebulski, A**, Lally, A, McSorley, H, Arriola, SG. (2023). Small, coastal temperate rainforest watersheds dominate dissolved organic carbon transport to the northeast Pacific Ocean. *Geophysical Research Letters*. [LINK](mcnicol_et_al_2022.pdf)

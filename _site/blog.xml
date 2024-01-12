@@ -9,12 +9,12 @@
 <link>https://acebulsk.github.io/blog.html</link>
 <atom:link href="https://acebulsk.github.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
-<generator>quarto-1.2.335</generator>
-<lastBuildDate>Thu, 25 Mar 2021 06:00:00 GMT</lastBuildDate>
+<generator>quarto-1.4.533</generator>
+<lastBuildDate>Thu, 25 Mar 2021 07:00:00 GMT</lastBuildDate>
 <item>
   <title>Central coast BC weather station service</title>
   <dc:creator>Alex Cebulski</dc:creator>
-  <link>https://acebulsk.github.io/posts/2021/03/index.html</link>
+  <link>https://acebulsk.github.io/posts/2021/03/</link>
   <description><![CDATA[ 
 
 
@@ -29,9 +29,8 @@
   <category>weather station</category>
   <category>service</category>
   <category>CHRL</category>
-  <guid>https://acebulsk.github.io/posts/2021/03/index.html</guid>
-  <pubDate>Thu, 25 Mar 2021 06:00:00 GMT</pubDate>
-  <media:content url="https://acebulsk.github.io/posts/2021/03/IMG_1694.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://acebulsk.github.io/posts/2021/03/</guid>
+  <pubDate>Thu, 25 Mar 2021 07:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>

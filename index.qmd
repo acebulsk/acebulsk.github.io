@@ -23,7 +23,7 @@ comments: false
 
 ## Bio
 
-PhD student studying snow accumulation in mountain forests at the University of Saskatchewan Centre for Hydrology in Canmore, AB. 
+PhD candidate studying snow accumulation in mountain forests at the University of Saskatchewan's Centre for Hydrology in Canmore, AB. 
 
 <p></p>
 
@@ -31,9 +31,9 @@ PhD student studying snow accumulation in mountain forests at the University of 
 
 #### Papers
 
-**Cebulski, A. C.** and Desloges, J. R. (2022 in-review). The Influence of Fluvial and Glacial Watershed Dynamics on Holocene Sediment Accumulation in Cariboo Lake, Columbia Mountains, British Columbia, Canada. 2022. *Holocene*.
+**Cebulski, A** and Desloges, J. R. (2024). The Influence of Fluvial and Glacial Watershed Dynamics on Holocene Sediment Accumulation in Cariboo Lake, Columbia Mountains, British Columbia, Canada. *Canadian Journal of Earth Sciences*. [LINK](https://cdnsciencepub.com/doi/abs/10.1139/cjes-2023-0094)
 
-McNicol, G, Hood, E, Butman, DE, Tank, SE, Giesbrecht, IJW, Floyd, W, D'Amore, D, Fellman, JB, **Cebulski, AC**, Lally, A, McSorley, H, Arriola, SG. (2022 in-review). Small, coastal temperate rainforest watersheds dominate organic carbon transport to the northeast Pacific Ocean. *Geophysical Research Letters*.
+McNicol, G, Hood, E, Butman, DE, Tank, SE, Giesbrecht, IJW, Floyd, W, D'Amore, D, Fellman, JB, **Cebulski, A**, Lally, A, McSorley, H, Arriola, SG. (2023). Small, coastal temperate rainforest watersheds dominate dissolved organic carbon transport to the northeast Pacific Ocean. *Geophysical Research Letters*. [LINK](mcnicol_et_al_2022.pdf)
 
 #### Websites
 
@@ -46,7 +46,6 @@ McNicol, G, Hood, E, Butman, DE, Tank, SE, Giesbrecht, IJW, Floyd, W, D'Amore, D
 **[weatherdash](https://github.com/acebulsk/weatherdash)** | Methods for weather dashboards | 2022  
 
 **[wxlogR](https://github.com/acebulsk/wxlogR)** | For working with hydrometeorological station data logger readouts  | 2021  
-
 **[psychRomet](https://github.com/acebulsk/psychRomet)** | Collection of Equations for Psychrometric Calculations | 2021
 
 :::
