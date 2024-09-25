@@ -48,4 +48,12 @@ McNicol, G, Hood, E, Butman, DE, Tank, SE, Giesbrecht, IJW, Floyd, W, D'Amore, D
 **[wxlogR](https://github.com/acebulsk/wxlogR)** | For working with hydrometeorological station data logger readouts  | 2021  
 **[psychRomet](https://github.com/acebulsk/psychRomet)** | Collection of Equations for Psychrometric Calculations | 2021
 
+#### In the News
+
+* [Getting to the Core](https://hakai.org/getting-to-the-core/) | June 5, 2024, By Josh Silberg
+* [From Powder Turns to Snow-cloaked Trees : Learning from guides about snow accumulation in mountain forests](https://harvest.usask.ca/items/68e4f340-1ee2-4825-b216-f3aefb5f85c9) | March, 2023, By Josh Silberg
+* [Old and New Tech Meet in the Snow](https://hakai.org/old-and-new-tech-meet-in-the-snow/) | April 16, 2021, By Josh Silberg
+* [A New Weather Station at the Top of British Columbia](https://hakai.org/a-new-weather-station-at-the-top-of-british-columbia/) | October 21, 2019, By Josh Silberg
+* [Mapping the Frozen Reservoir](https://hakai.org/mapping-the-frozen-reservoir/) | January 8, 2019, By Katrina Pyne and Grant Callegari
+
 :::
