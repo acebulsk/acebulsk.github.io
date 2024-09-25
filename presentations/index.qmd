@@ -5,7 +5,7 @@ comments: false
 
 **Cebulski, A.** and Pomeroy, J.W. (2024). Effect of Wind, Hydrometeor Fall Velocity and Canopy Structure on Snow Interception in a Windswept Subalpine Environment. Canadian Geophysical Union Meeting. Ottawa, Ontario. (Oral Presentation, Regional Conference, PhD work).
 
-Harasyn, M.L., Pomeroy, J.W., Harder, P.H., **Cebulski, A.** (2024). Methods of calculating snow water equivalent from drone-based lidar over a high mountain basin. Ottawa, Ontario. (Oral Presentation, Regional Conference, PhD work).
+Harasyn, M.L., Harder, P.H., **Cebulski, A.**, Lehan, K., Koslowsky, H., Fang, X., Pomeroy, J.W. (2024). Methods of calculating snow water equivalent from drone-based lidar over a high mountain basin. Canadian Geophysical Union Meeting. Ottawa, Ontario. (Oral Presentation, Regional Conference, PhD work).
 
 **Cebulski, A.** and Pomeroy, J.W. (2023). The Influence of Meteorology on Snow Interception Processes. American Geophysical Union Meeting. San Francisco, California. (Poster Presentation, International Conference, PhD work).
 
@@ -14,6 +14,8 @@ Harasyn, M.L., Pomeroy, J.W., Harder, P.H., **Cebulski, A.** (2024). Methods of 
 **Cebulski, A.** and Pomeroy, J.W. (2023). New Observations of Snow Interception Processes in a Windswept Subalpine Environment. Global Water Futures Annual Science Meeting. Saskatoon, Saskatchewan. (Poster Presentation, Regional Conference, PhD work).
 
 **Cebulski, A.** and Pomeroy, J.W. (2023). Snow Interception Processes and Prediction in a Windswept Subalpine Environment. Canadian Geophysical Union Meeting. Banff, Alberta. (Oral Presentation, Regional Conference, PhD work).
+
+Harasyn, M.L., **Cebulski, A.**, Lehan, K., Koslowsky, H., Harder, P.H., Pomeroy, J.W. (2023). Comparison of in situ and drone-based lidar snow depth measurements in a forested subalpine region. Canadian Geophysical Union Meeting. Ottawa, Ontario. (Oral Presentation, Regional Conference, PhD work).
 
 Pomeroy, J.W. and **Cebulski, A.** (2022). Wither Sublimation? Lower Sublimation Losses with Climate Warming Due to Suppression of Blowing Snow Transport and Forest Snow Interception Processes. American Geophysical Union Meeting. Chicago, Illinois. (Oral Presentation, International Conference, PhD work).
 
