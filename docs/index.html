@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.533">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -90,7 +90,7 @@ ul.task-list li input[type="checkbox"] {
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -113,7 +113,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
-          <div class="quarto-navbar-tools">
+            <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -167,8 +167,9 @@ ul.task-list li input[type="checkbox"] {
 <h2 data-anchor-id="selected-projects">Selected Projects</h2>
 <section id="papers" class="level4">
 <h4 data-anchor-id="papers">Papers</h4>
-<p><strong>Cebulski, A</strong> and Desloges, J. R. (2024). The Influence of Fluvial and Glacial Watershed Dynamics on Holocene Sediment Accumulation in Cariboo Lake, Columbia Mountains, British Columbia, Canada. <em>Canadian Journal of Earth Sciences</em>. <a href="https://cdnsciencepub.com/doi/abs/10.1139/cjes-2023-0094">LINK</a></p>
-<p>McNicol, G, Hood, E, Butman, DE, Tank, SE, Giesbrecht, IJW, Floyd, W, D’Amore, D, Fellman, JB, <strong>Cebulski, A</strong>, Lally, A, McSorley, H, Arriola, SG. (2023). Small, coastal temperate rainforest watersheds dominate dissolved organic carbon transport to the northeast Pacific Ocean. <em>Geophysical Research Letters</em>. <a href="mcnicol_et_al_2022.pdf">LINK</a></p>
+<p><strong>Cebulski, A.</strong> and Pomeroy, J.W. (2025). The Theoretical Underpinnings of Snow Interception and Ablation Parameterizations. <em>WIREs Water, 12</em>(e70010). <a href="https://doi.org/10.1002/wat2.70010">[link]</a></p>
+<p><strong>Cebulski, A.</strong> and Desloges, J.R. (2024). The Influence of Fluvial and Glacial Watershed Dynamics on Holocene Sediment Accumulation in Cariboo Lake, Columbia Mountains, British Columbia, Canada. <em>Canadian Journal of Earth Sciences, 61</em>(4): 543-559. <a href="https://doi.org/10.1139/cjes-2023-0094">[link]</a></p>
+<p>McNicol, G., Hood, E., Butman, D.E., Tank, S.E., Giesbrecht, I., Floyd, W.C., D’Amore, D., Fellman, J.B., <strong>Cebulski, A.</strong>, Lally, A., McSorley, H., and Arriola, S.G. (2023). Small, coastal temperate rainforest watersheds dominate dissolved organic carbon transport to the northeast Pacific Ocean. <em>Geophysical Research Letters, 50</em>, e2023GL103024. <a href="https://doi.org/10.1029/2023GL103024">[link]</a></p>
 </section>
 <section id="websites" class="level4">
 <h4 data-anchor-id="websites">Websites</h4>
@@ -177,9 +178,10 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="r-packages" class="level4">
 <h4 data-anchor-id="r-packages">R Packages</h4>
-<p><strong><a href="https://github.com/acebulsk/weatherdash">weatherdash</a></strong> | Methods for weather dashboards | 2022</p>
-<p><strong><a href="https://github.com/acebulsk/wxlogR">wxlogR</a></strong> | For working with hydrometeorological station data logger readouts | 2021<br>
-<strong><a href="https://github.com/acebulsk/psychRomet">psychRomet</a></strong> | Collection of Equations for Psychrometric Calculations | 2021</p>
+<p><strong><a href="https://github.com/acebulsk/weatherdash">weatherdash</a></strong> | R Package of methods for weather dashboards | Developer | 2022</p>
+<p><strong><a href="https://github.com/acebulsk/wxlogR">wxlogR</a></strong> | R Package for working with hydrometeorological station data logger readouts | Developer | 2021</p>
+<p><strong><a href="https://github.com/acebulsk/psychRomet">psychRomet</a></strong> | R Package with a collection of equations for psychrometric calculations | Developer | 2021</p>
+<p><strong><a href="https://github.com/CHRL-VIU/chrl-graph">chrl-graph</a></strong> | A website to visualize hydrometeorological data for the <a href="http://www.viu-hydromet-wx.ca/">Vancouver Island University - Coastal Hydrology Research Lab</a> network of weather stations. See website <a href="http://graph.viu-hydromet-wx.ca/">here</a>. | Developer | 2020</p>
 </section>
 <section id="in-the-news" class="level4">
 <h4 data-anchor-id="in-the-news">In the News</h4>
@@ -226,18 +228,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -269,7 +260,47 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp("https:\/\/acebulsk\.github\.io");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -304,7 +335,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
@@ -352,7 +387,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {

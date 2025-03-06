@@ -3,6 +3,12 @@ title: Conference Presentations
 comments: false
 ---
 
+**Cebulski, A.** and Pomeroy, J.W. (2024). Evaluation of New Canopy Snow Parameterizations in a Subalpine Needleleaf Forest. American Geophysical Union Meeting. Washington, D.C. (Oral Presentation, International Conference, PhD work).
+
+**Cebulski, A.** and Pomeroy, J.W. (2024). Snow Interception Relationships with Meteorology and Canopy Structure in a Subalpine Forest. The International Network for Alpine Research Catchment Hydrology (INARCH) Workshop. Lanzhou and Zhangye, China. (Oral Presentation, International Conference, PhD work).
+
+**Cebulski, A.** and Pomeroy, J.W. (2024). Effect of Wind, Hydrometeor Fall Velocity and Canopy Structure on Snow Interception in a Windswept Subalpine Environment. Canadian Geophysical Union Meeting. Ottawa, Ontario. (Oral Presentation, Regional Conference, PhD work).
+
 **Cebulski, A.** and Pomeroy, J.W. (2024). Effect of Wind, Hydrometeor Fall Velocity and Canopy Structure on Snow Interception in a Windswept Subalpine Environment. Canadian Geophysical Union Meeting. Ottawa, Ontario. (Oral Presentation, Regional Conference, PhD work).
 
 Harasyn, M.L., Harder, P.H., **Cebulski, A.**, Lehan, K., Koslowsky, H., Fang, X., Pomeroy, J.W. (2024). Methods of calculating snow water equivalent from drone-based lidar over a high mountain basin. Canadian Geophysical Union Meeting. Ottawa, Ontario. (Oral Presentation, Regional Conference, PhD work).
@@ -32,3 +38,4 @@ Floyd, B.C., McInnes, W., Holmes, K., **Cebulski, A.**, Dickinson, T., Butler, S
 **Cebulski, A.**, Desloges, J.R. (2018). The Glaciolacustrine Sediment Record of Cariboo Lake, BC: Implications for Holocene Fluvial and Glacial Watershed Dynamics. Joint meeting of the Canadian and American Quaternary Associations. Ottawa, Ontario. (Oral Presentation, International Conference, MSc work)
 
 **Cebulski, A.**, Enanga, E., Creed, I (2016). Quantifying the Carbon Sequestration of Restored Wetlands in the Agricultural Landscape of Southern Ontario. World Wetland Day Conference. Waterloo, Ontario. (Poster Presentation, International Conference, BSc work)
+

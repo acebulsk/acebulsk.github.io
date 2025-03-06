@@ -31,9 +31,11 @@ PhD candidate studying snow accumulation in mountain forests at the University o
 
 #### Papers
 
-**Cebulski, A** and Desloges, J. R. (2024). The Influence of Fluvial and Glacial Watershed Dynamics on Holocene Sediment Accumulation in Cariboo Lake, Columbia Mountains, British Columbia, Canada. *Canadian Journal of Earth Sciences*. [LINK](https://cdnsciencepub.com/doi/abs/10.1139/cjes-2023-0094)
+**Cebulski, A.** and Pomeroy, J.W. (2025). The Theoretical Underpinnings of Snow Interception and Ablation Parameterizations. *WIREs Water, 12*(e70010). [[link]](https://doi.org/10.1002/wat2.70010)
 
-McNicol, G, Hood, E, Butman, DE, Tank, SE, Giesbrecht, IJW, Floyd, W, D'Amore, D, Fellman, JB, **Cebulski, A**, Lally, A, McSorley, H, Arriola, SG. (2023). Small, coastal temperate rainforest watersheds dominate dissolved organic carbon transport to the northeast Pacific Ocean. *Geophysical Research Letters*. [LINK](mcnicol_et_al_2022.pdf)
+**Cebulski, A.** and Desloges, J.R. (2024). The Influence of Fluvial and Glacial Watershed Dynamics on Holocene Sediment Accumulation in Cariboo Lake, Columbia Mountains, British Columbia, Canada. *Canadian Journal of Earth Sciences, 61*(4): 543-559. [[link]](https://doi.org/10.1139/cjes-2023-0094)
+
+McNicol, G., Hood, E., Butman, D.E., Tank, S.E., Giesbrecht, I., Floyd, W.C., D'Amore, D., Fellman, J.B., **Cebulski, A.**, Lally, A., McSorley, H., and Arriola, S.G. (2023). Small, coastal temperate rainforest watersheds dominate dissolved organic carbon transport to the northeast Pacific Ocean. *Geophysical Research Letters, 50*, e2023GL103024. [[link]](https://doi.org/10.1029/2023GL103024)
 
 #### Websites
 
@@ -43,10 +45,14 @@ McNicol, G, Hood, E, Butman, DE, Tank, SE, Giesbrecht, IJW, Floyd, W, D'Amore, D
 
 #### R Packages 
 
-**[weatherdash](https://github.com/acebulsk/weatherdash)** | Methods for weather dashboards | 2022  
+**[weatherdash](https://github.com/acebulsk/weatherdash)** | R Package of methods for weather dashboards | Developer | 2022  
 
-**[wxlogR](https://github.com/acebulsk/wxlogR)** | For working with hydrometeorological station data logger readouts  | 2021  
-**[psychRomet](https://github.com/acebulsk/psychRomet)** | Collection of Equations for Psychrometric Calculations | 2021
+**[wxlogR](https://github.com/acebulsk/wxlogR)** | R Package for working with hydrometeorological station data logger readouts | Developer | 2021 
+
+**[psychRomet](https://github.com/acebulsk/psychRomet)** | R Package with a collection of equations for psychrometric calculations | Developer | 2021
+
+**[chrl-graph](https://github.com/CHRL-VIU/chrl-graph)** | A website to visualize hydrometeorological data for the [Vancouver Island University - Coastal Hydrology Research Lab](http://www.viu-hydromet-wx.ca/) network of weather stations. See website [here](http://graph.viu-hydromet-wx.ca/). | Developer | 2020 
+
 
 #### In the News
 
