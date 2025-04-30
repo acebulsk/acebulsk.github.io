@@ -31,7 +31,9 @@ PhD candidate studying snow accumulation in mountain forests at the University o
 
 #### Papers
 
-**Cebulski, A.** and Pomeroy, J.W. (2025). The Theoretical Underpinnings of Snow Interception and Ablation Parameterizations. *WIREs Water, 12*(e70010). [[link]](https://doi.org/10.1002/wat2.70010)
+**Cebulski, A.** and Pomeroy, J.W. (2025). Snow Interception Relationships With Meteorology and Canopy Density. *Hydrological Processes, 39*(4), e70135. [[link]](https://doi.org/10.1002/hyp)
+
+**Cebulski, A.** and Pomeroy, J.W. (2025). The Theoretical Underpinnings of Snow Interception and Ablation Parameterizations. *WIREs Water, 12*, e70010. [[link]](https://doi.org/10.1002/wat2.70010)
 
 **Cebulski, A.** and Desloges, J.R. (2024). The Influence of Fluvial and Glacial Watershed Dynamics on Holocene Sediment Accumulation in Cariboo Lake, Columbia Mountains, British Columbia, Canada. *Canadian Journal of Earth Sciences, 61*(4): 543-559. [[link]](https://doi.org/10.1139/cjes-2023-0094)
 
