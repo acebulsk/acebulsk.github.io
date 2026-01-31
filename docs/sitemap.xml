@@ -1,63 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://acebulsk.github.io/cdi/index.html</loc>
-    <lastmod>2023-03-28T00:17:19.483Z</lastmod>
+    <loc>https://acebulsk.github.io/posts/2021/03/index.html</loc>
+    <lastmod>2023-04-18T05:11:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acebulsk.github.io/junkdrawer/a-simple-script/index.html</loc>
+    <lastmod>2023-03-28T00:17:19.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acebulsk.github.io/junkdrawer/parameterized-reports/index.html</loc>
+    <lastmod>2023-03-28T00:17:19.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acebulsk.github.io/junkdrawer/summer2021/index.html</loc>
+    <lastmod>2023-03-28T00:17:19.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acebulsk.github.io/junkdrawer/riemann/index.html</loc>
+    <lastmod>2023-03-28T00:17:19.000Z</lastmod>
   </url>
   <url>
     <loc>https://acebulsk.github.io/index.html</loc>
-    <lastmod>2025-05-06T04:40:37.882Z</lastmod>
+    <lastmod>2026-01-31T22:55:21.540Z</lastmod>
+  </url>
+  <url>
+    <loc>https://acebulsk.github.io/conferences/index.html</loc>
+    <lastmod>2025-04-30T04:32:44.665Z</lastmod>
   </url>
   <url>
     <loc>https://acebulsk.github.io/papers/index.html</loc>
     <lastmod>2025-05-06T04:41:24.158Z</lastmod>
   </url>
   <url>
-    <loc>https://acebulsk.github.io/blog.html</loc>
+    <loc>https://acebulsk.github.io/junkdrawer/parameterized-sql/index.html</loc>
     <lastmod>2023-03-28T00:17:19.000Z</lastmod>
   </url>
   <url>
-    <loc>https://acebulsk.github.io/junkdrawer/parameterized-sql/index.html</loc>
-    <lastmod>2023-03-28T00:17:19.623Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acebulsk.github.io/junkdrawer/a-simple-script/index.html</loc>
-    <lastmod>2023-03-28T00:17:19.487Z</lastmod>
+    <loc>https://acebulsk.github.io/junkdrawer/more-complicated-logic/index.html</loc>
+    <lastmod>2023-03-28T00:17:19.000Z</lastmod>
   </url>
   <url>
     <loc>https://acebulsk.github.io/junkdrawer/parameterized-reports/manhattan/index.html</loc>
-    <lastmod>2023-03-28T00:17:19.623Z</lastmod>
+    <lastmod>2023-03-28T00:17:19.000Z</lastmod>
   </url>
   <url>
-    <loc>https://acebulsk.github.io/junkdrawer/more-complicated-logic/index.html</loc>
-    <lastmod>2023-03-28T00:17:19.579Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acebulsk.github.io/junkdrawer/parameterized-reports/index.html</loc>
-    <lastmod>2023-03-28T00:17:19.623Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acebulsk.github.io/junkdrawer/riemann/index.html</loc>
-    <lastmod>2023-03-28T00:17:19.627Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acebulsk.github.io/junkdrawer/summer2021/index.html</loc>
-    <lastmod>2023-03-28T00:17:19.631Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acebulsk.github.io/vr/index.html</loc>
-    <lastmod>2023-03-28T00:17:20.547Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acebulsk.github.io/posts/2021/03/index.html</loc>
-    <lastmod>2023-04-18T05:11:28.178Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acebulsk.github.io/presentations/index.html</loc>
-    <lastmod>2025-04-30T04:32:44.665Z</lastmod>
-  </url>
-  <url>
-    <loc>https://acebulsk.github.io/conferences/index.html</loc>
-    <lastmod>2025-04-30T04:32:44.665Z</lastmod>
+    <loc>https://acebulsk.github.io/blog.html</loc>
+    <lastmod>2023-03-28T00:17:19.000Z</lastmod>
   </url>
 </urlset>
