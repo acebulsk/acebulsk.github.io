@@ -5,6 +5,8 @@ comments: false
 
 ## Published 
 
+**Cebulski, A.** and Pomeroy, J.W. (2026). Processes Governing the Ablation of Intercepted Snow. *Water Resources Research, 62*(2), e2025WR042009. [[https://doi.org/10.1002/hyp.70135]](https://doi.org/10.1029/2025WR042009)
+
 **Cebulski, A.** and Pomeroy, J.W. (2025). Snow Interception Relationships With Meteorology and Canopy Density. *Hydrological Processes, 39*(4), e70135. [[https://doi.org/10.1002/hyp.70135]](https://doi.org/10.1002/hyp.70135)
 
 **Cebulski, A.** and Pomeroy, J.W. (2025). The Theoretical Underpinnings of Snow Interception and Ablation Parameterizations. *WIREs Water, 12*, e70010. [[https://doi.org/10.1002/wat2.70010]](https://doi.org/10.1002/wat2.70010)
