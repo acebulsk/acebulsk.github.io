@@ -1,5 +1,5 @@
 ---
-title: "Alex Cebulski"
+title: "Alex Cebulski, PhD"
 image: avatar.jpg
 about:
   template: trestles
@@ -23,7 +23,7 @@ comments: false
 
 ## Bio
 
-PhD candidate studying snow accumulation in mountain forests at the University of Saskatchewan's Centre for Hydrology in Canmore, AB. 
+Postdoctoral Fellow in the [CLIMB lab](https://siankou-giesbrecht.weebly.com/group.html) at Simon Fraser University. I completed my PhD in February 2026 at the University of Saskatchewan, focused on advancing models of snow and energy exchange in needleleaf forests in western and northern Canada. My current research investigates how climate change impacts interconnected ecological, hydrological, and biogeochemical systems.
 
 <p></p>
 
@@ -31,7 +31,7 @@ PhD candidate studying snow accumulation in mountain forests at the University o
 
 #### Papers
 
-**Cebulski, A.** and Pomeroy, J.W. (2026). Processes Governing the Ablation of Intercepted Snow. *Water Resources Research, 62*(2), e2025WR042009. [[https://doi.org/10.1002/hyp.70135]](https://doi.org/10.1029/2025WR042009)
+**Cebulski, A.** and Pomeroy, J.W. (2026). Processes Governing the Ablation of Intercepted Snow. *Water Resources Research, 62*(2), e2025WR042009. [[https://doi.org/10.1029/2025WR042009]](https://doi.org/10.1029/2025WR042009)
 
 **Cebulski, A.** and Pomeroy, J.W. (2025). Snow Interception Relationships With Meteorology and Canopy Density. *Hydrological Processes, 39*(4), e70135. [[https://doi.org/10.1002/hyp.70135]](https://doi.org/10.1002/hyp.70135)
 

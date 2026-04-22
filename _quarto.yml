@@ -7,12 +7,10 @@ project:
     - cv.pdf
 
 website:
-  title: "Alex Cebulski"
+  title: "Alex Cebulski, PhD"
   site-url: https://acebulsk.github.io
   open-graph:
     locale: en_US
-  twitter-card:
-    creator: "@alex_snow_hydro"
   comments:
     utterances:
       repo: acebulsk/acebulsk.github.io
