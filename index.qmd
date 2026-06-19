@@ -31,15 +31,19 @@ Postdoctoral Fellow in the [CLIMB lab](https://siankou-giesbrecht.weebly.com/gro
 
 #### Papers
 
-**Cebulski, A.** and Pomeroy, J.W. (2026). Processes Governing the Ablation of Intercepted Snow. *Water Resources Research, 62*(2), e2025WR042009. [[https://doi.org/10.1029/2025WR042009]](https://doi.org/10.1029/2025WR042009)
+**Cebulski, A. C.**, Pomeroy, J. W., & Floyd, W. C. (2026). An Evaluation of New Snow Interception and Ablation Parameterisations in Continental, Subarctic and Maritime Needleleaf Forests. *Hydrological Processes, 40*(6), e70573. [[https://doi.org/10.1002/hyp.70573]](https://doi.org/10.1002/hyp.70573)
 
-**Cebulski, A.** and Pomeroy, J.W. (2025). Snow Interception Relationships With Meteorology and Canopy Density. *Hydrological Processes, 39*(4), e70135. [[https://doi.org/10.1002/hyp.70135]](https://doi.org/10.1002/hyp.70135)
+Bisset, R., Floyd, W., Menounos, B., Bishop, A., Marchenko, S., Fisk, G., **Cebulski, A.C.**, Marshall, P., Heathfield, D., Beffort, S., White, R., Arriola, S.G., Viner, N. (2026). Snow water storage within eight Pacific Coastal watersheds in British Columbia (Canada) inferred from four years of airborne LiDAR data. *Water Resources Research, 62*(5), e2025WR040837. [[https://doi.org/10.1029/2025WR040837]](https://doi.org/10.1029/2025WR040837)
 
-**Cebulski, A.** and Pomeroy, J.W. (2025). The Theoretical Underpinnings of Snow Interception and Ablation Parameterizations. *WIREs Water, 12*, e70010. [[https://doi.org/10.1002/wat2.70010]](https://doi.org/10.1002/wat2.70010)
+**Cebulski, A.C.** and Pomeroy, J.W. (2026). Processes Governing the Ablation of Intercepted Snow. *Water Resources Research, 62*(2), e2025WR042009. [[https://doi.org/10.1029/2025WR042009]](https://doi.org/10.1029/2025WR042009)
 
-**Cebulski, A.** and Desloges, J.R. (2024). The Influence of Fluvial and Glacial Watershed Dynamics on Holocene Sediment Accumulation in Cariboo Lake, Columbia Mountains, British Columbia, Canada. *Canadian Journal of Earth Sciences, 61*(4): 543-559. [[https://doi.org/10.1139/cjes-2023-0094]](https://doi.org/10.1139/cjes-2023-0094)
+**Cebulski, A.C.**, & Pomeroy, J. W. (2025). Snow Interception Relationships With Meteorology and Canopy Density. *Hydrological Processes, 39*(4), e70135. [[https://doi.org/10.1002/hyp.70135]](https://doi.org/10.1002/hyp.70135)
 
-McNicol, G., Hood, E., Butman, D.E., Tank, S.E., Giesbrecht, I., Floyd, W.C., D'Amore, D., Fellman, J.B., **Cebulski, A.**, Lally, A., McSorley, H., and Arriola, S.G. (2023). Small, coastal temperate rainforest watersheds dominate dissolved organic carbon transport to the northeast Pacific Ocean. *Geophysical Research Letters, 50*, e2023GL103024. [[https://doi.org/10.1029/2023GL103024]](https://doi.org/10.1029/2023GL103024)
+**Cebulski, A.C.** and Pomeroy, J.W. (2025). The Theoretical Underpinnings of Snow Interception and Ablation Parameterizations. *WIREs Water, 12*(e70010). [[https://doi.org/10.1002/wat2.70010]](https://doi.org/10.1002/wat2.70010)
+
+**Cebulski, A.C.** and Desloges, J.R. (2024). The Influence of Fluvial and Glacial Watershed Dynamics on Holocene Sediment Accumulation in Cariboo Lake, Columbia Mountains, British Columbia, Canada. *Canadian Journal of Earth Sciences, 61*(4): 543-559. [[https://doi.org/10.1139/cjes-2023-0094]](https://doi.org/10.1139/cjes-2023-0094)
+
+McNicol, G., Hood, E., Butman, D.E., Tank, S.E., Giesbrecht, I., Floyd, W.C., D'Amore, D., Fellman, J.B., **Cebulski, A.C.**, Lally, A., McSorley, H., and Arriola, S.G. (2023). Small, coastal temperate rainforest watersheds dominate dissolved organic carbon transport to the northeast Pacific Ocean. *Geophysical Research Letters, 50*, e2023GL103024. [[https://doi.org/10.1029/2023GL103024]](https://doi.org/10.1029/2023GL103024)
 
 #### Websites
 

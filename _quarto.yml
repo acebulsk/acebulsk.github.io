@@ -21,7 +21,7 @@ website:
       - text: "Papers"
         href: papers
       - text: "Conferences"
-        href: presentations
+        href: conferences
       - text: "Blog"
         href: blog.html
 format:
